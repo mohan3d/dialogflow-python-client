@@ -4,8 +4,8 @@ api.ai: Python SDK for `API.AI <http://api.ai>`_
 .. image:: https://badge.fury.io/py/apiai.svg
     :target: http://badge.fury.io/py/apiai
 
-.. image:: https://travis-ci.org/api-ai/api-ai-python.svg
-    :target: https://travis-ci.org/api-ai/api-ai-python
+.. image:: https://travis-ci.org/dialogflow/dialogflow-python-client.svg
+    :target: https://travis-ci.org/dialogflow/dialogflow-python-client
 
 
 Overview
