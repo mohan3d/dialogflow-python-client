@@ -50,7 +50,7 @@ or install it from repo:
 
 .. code-block:: bash
 
-    $ pip install https://github.com/api-ai/api-ai-python.git
+    $ pip install git+https://github.com/dialogflow/dialogflow-python-client.git
 
 You might run into problems because some dependencies in your python environment are missing. You need to install numpy (which is available in almost all package managers). For running the examples you also need python audio.
 
