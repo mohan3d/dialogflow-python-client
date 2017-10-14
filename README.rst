@@ -67,12 +67,12 @@ Documentation
 Documentation is available at http://api.ai.
 
 ## How to make contributions?
-Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md).
+Please read and follow the steps in the `CONTRIBUTING <https://github.com/dialogflow/dialogflow-python-client/blob/master/CONTRIBUTING.md>`_.
 
 ## License
-See [LICENSE](LICENSE).
+See `LICENSE <https://github.com/dialogflow/dialogflow-python-client/blob/master/LICENSE>`_.
 
 ## Terms
-Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Google APIs Terms of Service](https://developers.google.com/terms/).
+Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the `Google APIs Terms of Service <https://developers.google.com/terms/>`_.
 
 This is not an official Google product.
